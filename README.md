@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anand Kalirana
 
-I’m a passionate first-year B.Tech (IoT) student with a growing focus on **Cybersecurity**, **Ethical Hacking**, and **Python development**. I recently completed a 3-month internship at **Threat Prism One Stop AI**, where I built tools for real-world security use cases.
+I’m a passionate first-year B.Tech (IoT) student with a growing focus on **Cybersecurity**, **Ethical Hacking**, and **Python development**. I recently completed a 3-month internship at **Threat Prism One Stop AI**, where I built practical tools for real-world security use cases.
 
 ---
 
@@ -8,32 +8,36 @@ I’m a passionate first-year B.Tech (IoT) student with a growing focus on **Cyb
 
 Here are the 4 key projects I developed during my internship:
 
-- 🧠 [Phishing Awareness Simulation](https://github.com/AnandKalirana/phishing-awareness-simulation)  
-  → Educates users on phishing threats through simulated campaigns.
+- 🧠 **Phishing Awareness Simulation**  
+  Educates users on phishing threats through simulated campaigns.
 
-- 🌐 [Network and Port Scanner](https://github.com/AnandKalirana/network-port-scanner)  
-  → Scans IPs and detects open ports using Python’s socket programming.
+- 🌐 **Network and Port Scanner**  
+  Scans IPs and detects open ports using Python’s socket programming.
 
-- 🕵️‍♂️ [Recon Automation for Web Pentesting](https://github.com/AnandKalirana/recon-automation-web-pentesting)  
-  → Automates reconnaissance tasks for identifying web vulnerabilities.
+- 🕵️‍♂️ **Recon Automation for Web Pentesting**  
+  Automates reconnaissance tasks to identify web vulnerabilities.
 
-- 🔍 [Information Gathering Tool](https://github.com/AnandKalirana/information-gathering-tool)  
-  → Collects OSINT data (WHOIS, DNS, IP info, etc.) to profile targets.
+- 🔍 **Information Gathering Tool**  
+  Collects OSINT data (WHOIS, DNS, IP info, etc.) to profile targets.
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Programming:** Python, C, C++
-- **Cybersecurity:** OSINT, Scanning, Phishing Simulations
+
+- **Programming Languages:** Python, C, C++  
+- **Cybersecurity:** OSINT, Network Scanning, Phishing Simulations  
 - **Tools:** GitHub, MS Excel, Word, Data Entry Automation
 
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: anandkaliranajat05@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/anand-kalirana-572212310
 
-> Thanks for visiting my profile! Let’s secure the web together 🔒
+- 📧 Email: [anandkaliranajat05@gmail.com](mailto:anandkaliranajat05@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/anand-kalirana-572212310](https://www.linkedin.com/in/anand-kalirana-572212310)
+
+---
+
+Thanks for visiting my profile! Let’s secure the web together 🔒
 
 
 <!--
